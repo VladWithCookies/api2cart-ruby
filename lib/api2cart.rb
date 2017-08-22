@@ -12,6 +12,6 @@ module Api2cart
   config_accessor :host
 
   self.configure do |config|
-    config.host = 'api.api2cart.com'
+    config.host = 'test-api.api2cart.com'
   end
 end
